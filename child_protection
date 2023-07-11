@@ -1,0 +1,9 @@
+#=====================================
+# Title: Hosts blocked for child protection
+# 
+
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 tiktok.com
+0.0.0.0 *.tiktok.com
+0.0.0.0 *.youtube.com
